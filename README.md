@@ -1,3 +1,15 @@
+## MIAMI Website design font-end
+
+This is a web application development project that primarily utilizes react.ts, CSS. TypeScript is employed as the programming language.
+
+## Description
+
+This is a MIAMI-web, web application created by Dream, Internal Control System Development Team ,Saksiam Leasing Public Company Limited. The development of this system involved learning to write from [this link](https://youtu.be/309beMyhXtg?si=_bXNaTznbLdCkcC4).
+
+## Features
+
+- View room
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -30,6 +42,15 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ### `npm run eject`
+
+## Project Structure
+
+```bash
+├──src                               # for any application framework
+  ├── Ass                            # Image and vedio 
+  ├── react-app-env.d.ts             # setting vedio and aos
+  ├── page                           # react framework
+```
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
